@@ -1,0 +1,4 @@
+/home/usama/clion-2020.2.5/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=gcc -G "CodeBlocks - Unix Makefiles" /home/usama/CLionProjects/SomaShell
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/usama/CLionProjects/SomaShell/cmake-build-debug

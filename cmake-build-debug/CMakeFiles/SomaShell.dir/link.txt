@@ -1,0 +1,1 @@
+/usr/bin/gcc -g   CMakeFiles/SomaShell.dir/main.c.o  -o SomaShell 

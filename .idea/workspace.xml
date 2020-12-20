@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SomaShell" targetName="SomaShell" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Default" TOOLCHAIN_NAME="Default" BUILD_OPTIONS="-lreadline" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfb71433-fc72-4612-842e-1cb8644e959d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tst" beforeDir="false" afterPath="$PROJECT_DIR$/tst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Default" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kvh2ZgHwT4HYDrWckEPbfNAbrC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SomaShell" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SomaShell" TARGET_NAME="SomaShell" CONFIG_NAME="Default" RUN_TARGET_PROJECT_NAME="SomaShell" RUN_TARGET_NAME="SomaShell">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfb71433-fc72-4612-842e-1cb8644e959d" name="Default Changelist" comment="" />
+      <created>1606586769313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606586769313</updated>
+      <workItem from="1606586775748" duration="4148000" />
+      <workItem from="1606595404881" duration="1686000" />
+      <workItem from="1606776655671" duration="5409000" />
+      <workItem from="1606848566029" duration="63000" />
+      <workItem from="1608457554135" duration="5450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="28" width="732" height="644" key="#Inspections" timestamp="1606588070558">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state x="348" y="28" width="732" height="644" key="#Inspections/72.27.1294.645@72.27.1294.645" timestamp="1606588070558" />
+    <state x="306" y="71" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606595807715">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="306" y="71" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1606595807715" />
+    <state width="1248" height="140" key="GridCell.Tab.0.bottom" timestamp="1606587666678">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state width="1248" height="140" key="GridCell.Tab.0.bottom/72.27.1294.645@72.27.1294.645" timestamp="1606587666678" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1606587229131" />
+    <state width="1248" height="140" key="GridCell.Tab.0.center" timestamp="1606587666678">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state width="1248" height="140" key="GridCell.Tab.0.center/72.27.1294.645@72.27.1294.645" timestamp="1606587666678" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1606587229130" />
+    <state width="1248" height="140" key="GridCell.Tab.0.left" timestamp="1606587666678">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state width="1248" height="140" key="GridCell.Tab.0.left/72.27.1294.645@72.27.1294.645" timestamp="1606587666678" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1606587229130" />
+    <state width="1248" height="140" key="GridCell.Tab.0.right" timestamp="1606587666678">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state width="1248" height="140" key="GridCell.Tab.0.right/72.27.1294.645@72.27.1294.645" timestamp="1606587666678" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1606587229131" />
+    <state x="208" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1606596697164">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="27" width="1012" height="645" key="SettingsEditor/72.27.1294.645@72.27.1294.645" timestamp="1606586819103" />
+    <state x="208" y="27" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1606596697164" />
+    <state x="405" y="27" width="618" height="645" key="find.popup" timestamp="1608463703032">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state x="405" y="27" width="618" height="645" key="find.popup/72.27.1294.645@72.27.1294.645" timestamp="1608463703032" />
+    <state x="432" y="135" width="563" height="436" key="refactoring.ChangeSignatureDialog" timestamp="1606588000713">
+      <screen x="72" y="27" width="1294" height="645" />
+    </state>
+    <state x="432" y="135" width="563" height="436" key="refactoring.ChangeSignatureDialog/72.27.1294.645@72.27.1294.645" timestamp="1606588000713" />
+  </component>
+</project>
